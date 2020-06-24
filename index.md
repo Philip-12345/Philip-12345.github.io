@@ -5,3 +5,5 @@ This is a very interesting character who plays a key role in the movie movie. By
 * sporty
 * happy
 * loves chocolate cookies
+Character enjoys saying:
+> A chocolate cookie can only be happy if it is eaten.
